@@ -5,7 +5,7 @@
 Based on OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https://github.com/borisdayma/dalle-mini).
 
 ## Using DALL-E Mega
-DALL-E Mega is substianlly more capable than DALL-E Mini and therefore generates higher fidelity images. If you have the computing power uncomment [this line](https://github.com/saharmor/dalle-playground/blob/2cffe123325910ff266185b653841c65f227c69f/backend/app.py#L38) before running the backend.
+DALL-E Mega is substianlly more capable than DALL-E Mini and therefore generates higher fidelity images. If you have the computing power uncomment the line in app.py that says "uncommen".
 
 ## Local development
 
